@@ -1,3 +1,14 @@
 site_name: Rank-CN铁锈排位官方文档
 theme:
   name: 'material'
+  site_author: '幻想'
+  features:
+# 即时加载
+    - navigation.instant
+# 进度指示器
+    - navigation.instant
+    - navigation.instant.progress
+# 导航路径面包屑
+    - navigation.path
+# 返回顶部按钮
+    - navigation.top
