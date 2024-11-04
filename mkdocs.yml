@@ -1,7 +1,23 @@
 site_name: Rank-CN铁锈排位官方文档
+site_description: "Rank-CN铁锈战争游戏排位官方文档"
+site_author: "幻想"
+copyright: "Copyright &copy; 2024 幻想"
+
 theme:
-  name: 'material'
   site_author: '幻想'
+  language: zh
+  name: 'material'
+  include_sidebar: true
+  logo: 'images/logo.png'
+  favicon: 'images/logo.png'
+  feature:
+    tabs: false
+  palette:
+    primary: 'deep purple'
+    accent: 'deep purple'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
   features:
 # 即时加载
     - navigation.instant
@@ -12,3 +28,13 @@ theme:
     - navigation.path
 # 返回顶部按钮
     - navigation.top
+
+plugins:
+    - search # necessary for search to work
+    - awesome-pages
+
+repo_url: https://xmrank.someo.top
+repo_name: "Rank-CN官网"
+
+nav:
+  - '首页': "index.md"
