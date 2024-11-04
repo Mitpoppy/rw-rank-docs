@@ -12,9 +12,6 @@ theme:
   favicon: 'images/logo.png'
   feature:
     tabs: false
-  palette:
-    primary: '#29b7cb'
-    accent: '#29b7cb'
   i18n:
     prev: 'Previous'
     next: 'Next'
