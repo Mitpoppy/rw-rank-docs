@@ -1,3 +1,4 @@
 site_name: Rank-CN铁锈排位官方文档
+docs_dir: rwdocs.someo.top
 theme:
   name: 'material'
