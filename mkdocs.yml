@@ -30,7 +30,7 @@ plugins:
     - search # necessary for search to work
 
 repo_url: https://xmrank.someo.top
-repo_name: "Rank-CN官网"
+repo_name: "前往Rank-CN官网"
 
 nav:
   - '首页': "index.md"
