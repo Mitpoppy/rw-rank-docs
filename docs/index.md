@@ -1,3 +1,2 @@
-# 欢迎来到排位官方文档
-
-看什么看还没写呢
+# <p align="center">Rank-CN-Docs</p>
+![动态logo](/images/logo动态.png)
