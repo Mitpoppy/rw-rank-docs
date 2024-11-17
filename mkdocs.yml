@@ -34,4 +34,5 @@ repo_name: "前往Rank-CN官网"
 
 nav:
   - '首页': "index.md"
+  - '账号系统': "account"
   - '关于': "about.md"
