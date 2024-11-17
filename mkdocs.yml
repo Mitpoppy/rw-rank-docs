@@ -32,6 +32,20 @@ plugins:
 repo_url: https://xmrank.someo.top
 repo_name: "前往Rank-CN官网"
 
+palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: 切换到黑暗模式
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: 切换到白天模式
+
 nav:
   - '首页': "index.md"
   - '账号系统': "account"
