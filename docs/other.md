@@ -6,7 +6,7 @@
 
 铁锈游戏下载：[https://txzz.someo.top/](https://txzz.someo.top/)
 
-问题反馈平台:[https://support.qq.com/products/671211](https://support.qq.com/products/671211)
+问题反馈平台：[https://support.qq.com/products/671211](https://support.qq.com/products/671211)
 
 官方kook频道：[https://kook.top/sRITa2](https://kook.top/sRITa2)
 
